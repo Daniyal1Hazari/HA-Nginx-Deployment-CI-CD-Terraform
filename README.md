@@ -1,2 +1,2 @@
 # my-repository
-This repo contains the code for the nginx application to be deployed.
+This repo contains the application deployment code, terraform script and Jenkinsfile script.
