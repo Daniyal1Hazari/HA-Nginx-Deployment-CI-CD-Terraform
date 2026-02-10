@@ -1,2 +1,2 @@
 # my-repository
-This repo contains the application deployment code, terraform script and Jenkinsfile script.
+Highly Available NGINX Deployment on AWS using Terraform & Jenkins.
